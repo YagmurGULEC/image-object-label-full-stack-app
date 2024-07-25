@@ -1,0 +1,29 @@
+
+  
+  #container {
+    position: position;
+    top: 100px;
+    left: 500px;
+    bottom:10px;
+    transform-origin: 0 0;
+  }
+  .canvas-img{
+      position: absolute;
+      z-index: 1;
+      border: 1px solid  yellowgreen;
+      border-radius: 5px;
+      background-color:transparent;
+    
+  }
+  .canvas-rect{
+      position: absolute;
+      z-index: 2;
+      border: 1px dashed red;
+      border-radius: 5px;
+      background-color:transparent;
+    
+  }
+  #objects{
+    max-width:200px;
+  }
+  
